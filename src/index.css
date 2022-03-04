@@ -1,0 +1,131 @@
+/* Design Styles
+canva.com
+Colors
+French Gray #B8B6BC
+Jungle Mist #B6CCD3
+Teal Blue #044664
+Mosque #04546A
+==============================================*/
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lora', serif;
+    color: #B6CCD3;
+    background-color: #044664;
+    text-align: center;
+}
+
+/*Start styles to Nav bar (use Header.js classNames)
+=================================*/
+.navi {
+    background-image: url(../public/img/88-882598_web-design-blue-web-design-background-pattern.jpg);
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    /* display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-items: center; */
+    width: 100%;
+    /* text-decoration: none;      */
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #B6CCD3;
+    font-weight:bolder;
+    font-size: larger;
+    font-style: italic;
+}
+
+a.nav-link {
+    text-decoration: none;
+    color: #B6CCD3;
+}
+
+/* Main body */
+main {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 30em;
+    margin-right: 30em;
+}
+
+
+/*Start styles to About bar (use About.js classNames)
+=================================*/
+.my-pic {
+	clip-path: circle();
+    width: 250px;
+}
+
+/*Start styles for Portfolio/Project files
+=================================*/
+.port-title {
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+strong {
+    font-style: italic;
+    font-size: larger;
+}
+.card-footer-item {
+    text-decoration: none;
+    color: #B6CCD3;
+}
+/* .pro-image {
+    
+}  */
+
+.media {
+    font-size: larger;
+    font-style: italic;
+}
+
+.label {
+    text-align: left;
+}
+
+
+/*Start Resume / Skills
+=================================*/
+a.button {
+    text-decoration: none;
+    font-size: medium;
+    color: #B6CCD3;
+}
+
+p.content-skill {
+    font-size: larger;
+}
+
+/*Start Footer
+=================================*/
+
+footer.footer {
+    background-image: url(../public/img/intro-img.jpg);
+    text-decoration: none;
+    /* text-align: center; */
+}
+
+.git {
+    text-decoration: none;
+}
+
+/*Start screen size 
+=================================*/
+@media only screen and (max-width: 1024px) {
+    main {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        margin-left: 2em;
+        margin-right: 2em;
+    }
+}
