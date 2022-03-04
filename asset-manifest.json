@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ae-portfolio/static/css/main.4471a991.css",
+    "main.js": "/ae-portfolio/static/js/main.eccceecd.js",
+    "static/js/787.73394f8d.chunk.js": "/ae-portfolio/static/js/787.73394f8d.chunk.js",
+    "static/media/88-882598_web-design-blue-web-design-background-pattern.jpg": "/ae-portfolio/static/media/88-882598_web-design-blue-web-design-background-pattern.d6d4b904e4fe978339bc.jpg",
+    "static/media/intro-img.jpg": "/ae-portfolio/static/media/intro-img.209d4cc39e13ce1e05d2.jpg",
+    "index.html": "/ae-portfolio/index.html",
+    "main.4471a991.css.map": "/ae-portfolio/static/css/main.4471a991.css.map",
+    "main.eccceecd.js.map": "/ae-portfolio/static/js/main.eccceecd.js.map",
+    "787.73394f8d.chunk.js.map": "/ae-portfolio/static/js/787.73394f8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4471a991.css",
+    "static/js/main.eccceecd.js"
+  ]
+}
