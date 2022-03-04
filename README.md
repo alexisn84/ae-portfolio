@@ -31,6 +31,7 @@ Use `git clone` <REPONAME> in your command-line, then `npm init` to install the 
 After cloning files, then type `npm start` in your command-line, this will allow you to open a local browser to see your details and layout as you make it your own.
 
 ## Preview
+<img src="https://github.com/alexisn84/ae-portfolio/blob/main/public/img/Picture1.png">
 
 ## Questions
 Open a new issue under the repo at https://github.com/alexisn84/ae-portfolio/issues
